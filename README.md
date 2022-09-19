@@ -1,2 +1,2 @@
-# soniroz
+# SOniroZ
 SOniroZ
